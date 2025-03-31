@@ -19,7 +19,7 @@ O conversor de moedas converte Wons sul-coreanos (KRW) para Reais (BRL). Basta i
 ## Preview
 
 <p align="center">
-  <img alt="Logo do projeto" src="https://raw.githubusercontent.com/jonathanmesquita/flappy-bird/main/images/flappy-bird.gif#vitrinedev"/>
+  <img alt="Logo do projeto" src="#"/>
 </p>
 
 ## Detalhes do projeto

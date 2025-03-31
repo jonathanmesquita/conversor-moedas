@@ -10,7 +10,7 @@ O conversor de moedas converte Wons sul-coreanos (KRW) para Reais (BRL). Basta i
 | -------------  | --- |
 | :sparkles: Nome        | **Projeto Conversor de Moedas.**
 | :label: Tecnologias | Html, CSS, JavaScript
-| :rocket: URL         | Quer ver como ta ficando? Acessa a [**DEMO**](https://jonathanmesquita.github.io/URL)
+| :rocket: URL         | Quer ver como ta ficando? Acessa a [**DEMO**](https://jonathanmesquita.github.io/conversor-moedas/)
 | :fire: Desafio     | [Conversor de Moedas - Conversor Simples usando JavaScript e HTML](x)
 
 
